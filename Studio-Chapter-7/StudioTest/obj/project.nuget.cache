@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eIxT1x9eSjCn0dw+QPjFS6xdYwJBFoBUjkCm5eJ7BB3hHv9QKnesJ2/uIYvioR0YGr13/024NIuOs+dJ39V8AQ==",
+  "dgSpecHash": "kfmjlGJRhji3X7AmMoOVreMdS7NIR6sD7+3ry8t7Z8rMsEYRsnME7Wf/AQ2gBPB9A17lpH6QJ4efHUczSzj+XQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\StudioTest\\StudioTest.csproj",
+  "projectFilePath": "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\StudioTest\\StudioTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\13016\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\13016\\.nuget\\packages\\documentformat.openxml\\2.11.0\\documentformat.openxml.2.11.0.nupkg.sha512",

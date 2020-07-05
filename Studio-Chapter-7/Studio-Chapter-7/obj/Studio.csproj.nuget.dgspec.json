@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj": {}
+    "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj": {
+    "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj",
+        "projectUniqueName": "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj",
         "projectName": "Studio",
-        "projectPath": "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj",
+        "projectPath": "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\Studio.csproj",
         "packagesPath": "C:\\Users\\13016\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\13016\\source\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\obj\\",
+        "outputPath": "C:\\Users\\13016\\codecamp2020\\Unit-2\\Chapter-7\\repos\\Studio-Chapter-7\\Studio-Chapter-7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\13016\\AppData\\Roaming\\NuGet\\NuGet.Config",

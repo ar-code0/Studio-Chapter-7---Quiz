@@ -26,7 +26,6 @@ namespace StudioNS
             Console.WriteLine(">>>  Part (1) Summary  <<<\n");
             Console.ResetColor();
             int mcResult = part1.CorrectAnswers(part1.UserAns, part1.Corrects);
-            
 
             //Checkbox Part
             Checkbox part2 = new Checkbox(Dictionnaries.cbQuestions, Dictionnaries.cbCorrects);
